@@ -26,7 +26,7 @@ A. Pro版をご購入いただくと広告が非表示になります。
 不具合やご要望は、GitHubのIssueまたは以下までご連絡ください。
 
 - GitHub Issues  
-- メール: your-email@example.com
+- メール: hiroki.hatena4649@gmail.com
 
 ## プライバシーポリシー
 広告配信およびアプリ内課金に関する情報は以下をご確認ください。  
